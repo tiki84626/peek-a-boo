@@ -6,6 +6,10 @@ img {
   display: none;
 }
 
+#text-showing {
+  display: none;
+}
+
 /*p {
   cursor: pointer;
   color: #0088cc;
